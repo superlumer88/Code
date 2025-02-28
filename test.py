@@ -1,1 +1,6 @@
 print("hello world")
+print(5+6)
+print("hagar")
+print("hello world")
+print(5+6)
+print("hagar")
